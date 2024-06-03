@@ -1,0 +1,13 @@
+.Todo {
+    cursor: pointer;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    background-color: black;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #888;
+  }
+  
